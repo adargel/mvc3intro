@@ -92,6 +92,7 @@
     <Content Include="Content\css\blueprint\src\print.css" />
     <Content Include="Content\css\blueprint\src\reset.css" />
     <Content Include="Content\css\blueprint\src\typography.css" />
+    <Content Include="Content\html\index.htm" />
     <Content Include="Global.asax" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -124,7 +125,6 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Content\html\" />
     <Folder Include="Controllers\" />
     <Folder Include="Models\" />
   </ItemGroup>
